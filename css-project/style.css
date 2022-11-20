@@ -79,7 +79,7 @@ body {
 
     grid-template-columns: 1fr 8fr 1fr;
     grid-template-areas:
-        "quantity title   price"
+        "quantity title price"
         "quantity options price";
 
     row-gap: 8px;
